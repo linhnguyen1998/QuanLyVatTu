@@ -1,0 +1,1 @@
+Sau khi cài đặt, bạn vui lòng truy cập vào thư mục cài đặt phần mềm, mở Folder Data -> double click vào create database.bat để cài đặt database.
